@@ -2,9 +2,9 @@
 <div class="layout">
   <div class="header">
     <span>
-      Ipko Campaigns
+      Dynamic Campaigns
     </span>
-    <img src="@/assets/ipko.png" alt="">
+    <img src="@/assets/logo.png" alt="">
     <span>
       Log out
     </span>
@@ -25,7 +25,7 @@
     </div>
   </div>
   <div class="footer">
-    Copyright ipko @ 2018
+    Copyright Ardian Ibrahimi @ 2018
   </div>
 </div>
 </template>

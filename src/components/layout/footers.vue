@@ -1,6 +1,6 @@
 <template>
     <footer>
-        Copyright ipko 2018
+        Copyright Ardian Ibrahiim 2018
     </footer>
 </template>
 <script>
